@@ -42,7 +42,7 @@
 git clone https://github.com/kirillgt33/LibraryManagementApp.git
 ```
 
-## Использование
+## Использование проекта
 Запустите приложение:
 ```
 python library_management.py
